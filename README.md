@@ -1,1 +1,10 @@
-some content here
+# Мой первый коммит
+Текст *курсивом*, текст **жирным**:
+```python
+def main():
+  print("Hello, world!")
+```
+
+Форумулы:
+
+$$E = MC^2$$
